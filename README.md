@@ -1,6 +1,6 @@
 # Frontend Mentor - Base Apparel coming soon page
 
-# Live server: https://the-user01.github.io/Base-Apparel/
+Live server: https://the-user01.github.io/Base-Apparel/
 
 ![Design preview for the Base Apparel coming soon page coding challenge](./design/desktop-preview.jpg)
 
